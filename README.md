@@ -37,7 +37,7 @@ The **NSC Desktop App WPF Ordering System** is a **desktop application** built w
 ### **Steps**
 1. **Clone the repository**  
    ```sh
-   git clone https://github.com/yourusername/NCS-Wpf.git
+   git clone https://github.com/hilmank/Ncs.App.git
    ```
 2. **Open in Visual Studio**  
 3. **Configure API Endpoint** in `app.condig`  
